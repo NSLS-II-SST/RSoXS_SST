@@ -9,7 +9,7 @@ run_report(__file__)
 """
 basic general equations applying to gratings and grating instruments
 assumes all angular arguments are passed as degrees
-assumes length units are in mm 
+assumes length units are in mm
 @author: dvorak
 """
 
